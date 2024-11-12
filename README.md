@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Belza
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Software Engineering @MoringaSchool
-- 📫 How to reach me: @belzachieng@gmail.com
+- 👀 I’m a Software Engineer from Moringa
+- 🌱 I’m currently freelancing
+- 📫 How to reach me: @belza.achieng@yahoo.com
 
 <!---
 AchieBee/AchieBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
