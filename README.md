@@ -1,6 +1,6 @@
-![Belza's Profile Banner](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=600)
+![Belza's Profile Banner](https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg?auto=compress&cs=tinysrgb&w=600)
 
-# 👋 Hi, I’m Belza Achieng'
+# 👋 Hi, I am Belza Achieng'
 
 ![Waving Hand](https://giphy.com/gifs/3d-emoji-animated-emoticon-NTjxSbh6KnqSyRa1zk)
 
