@@ -1,6 +1,9 @@
 ![Belza's Profile Banner](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=600)
 
-# ![Waving Hand](https://giphy.com/gifs/3d-emoji-animated-emoticon-NTjxSbh6KnqSyRa1zk) Hi, I'm Belza Achieng
+# 👋 Hi, I’m Belza Achieng'
+
+![Waving Hand](https://giphy.com/gifs/3d-emoji-animated-emoticon-NTjxSbh6KnqSyRa1zk)
+
 I am a motivated **Software Developer** who specializes in building efficient, scalable, and user-friendly applications, with a focus on **Python**, **JavaScript**, and **web development**.  
 
 ## 🌟 What I Do
